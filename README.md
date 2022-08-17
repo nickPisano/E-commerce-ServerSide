@@ -25,4 +25,5 @@ Lekashi
 ***
 ## Questions
 - https://github.com/Lekashi
-- Tutorial Video: https://www.loom.com/share/00457e088cff4ab9ad49d2784329a9f6
+- Server Setup video: https://www.loom.com/share/a2683ded27ce49fea95f9a9802fde1ea
+- Tutorial Routes Video: https://www.loom.com/share/00457e088cff4ab9ad49d2784329a9f6
