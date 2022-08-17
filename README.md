@@ -25,4 +25,4 @@ Lekashi
 ***
 ## Questions
 - https://github.com/Lekashi
-- Tutorial Video.
+- Tutorial Video: https://www.loom.com/share/00457e088cff4ab9ad49d2784329a9f6
