@@ -22,9 +22,7 @@ N/a
 ***
 ## License
 ![MIT license](https://img.shields.io/static/v1?label=license&message=MIT&color=blue)
-## Test
-No
 ***
 ## Questions
 - https://github.com/Lekashi
-- For additional questions please email me at: Nickyp@yahoo.com
+- Tutorial Video.
